@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# Hi 👋, I'm Neel Prajapati
+# Hey!, I'm Neel Prajapati
 
-### 🚀 AI Engineer in Progress • Building AI-Powered Products • Data Analytics • Automation
+###  AI Engineer in Progress • Building AI-Powered Products • Data Analytics • Automation
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Powered+Applications;AI+Engineering+%7C+Automation+%7C+Analytics;Python+Developer;Learning+Every+Day+%F0%9F%9A%80" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me
+# >> About Me
 
 ```python
 class NeelPrajapati:
