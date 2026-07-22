@@ -2,6 +2,35 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=5F5F5F&width=435&lines=Hi+%F0%9F%91%8B+I'm+Neel;AI+Enthusiast;Data+Science+Learner;Full+Stack+Developer;Automation+Builder)](https://git.io/typing-svg)
 
+
+## 👨‍💻 About Me
+
+🎓 BCA Student
+
+📍 Vadodara, India
+
+🤖 Interested in AI
+
+📊 Data Science
+
+⚡ Automation
+
+🌐 Full Stack Development
+
+🚀 Building useful AI tools
+
+📚 Currently learning
+
+• Next.js
+
+• Python
+
+• SQL
+
+• Power BI
+
+• Supabase
+
 <!--
 **Neel629/Neel629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
