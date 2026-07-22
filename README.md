@@ -1,6 +1,6 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=350&color=a3a3c2&text=Neel%20Prajapati&section=header&reversal=false&textBg=false&fontColor=000000&fontSize=85&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=94&color=5F5F5F&multiline=true&width=435&lines=Hi+%F0%9F%91%8B;I'm+Neel;AI+Enthusiast;Data+Science+Learner;Full+Stack+Developer;Automation+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=50&color=5F5F5F&width=435&lines=Hi+%F0%9F%91%8B+I'm+Neel;AI+Enthusiast;Data+Science+Learner;Full+Stack+Developer;Automation+Builder)](https://git.io/typing-svg)
 
 <!--
 **Neel629/Neel629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
